@@ -1,0 +1,8 @@
+{
+  "name": "genpark-agent-computer-interface-aci-command-normalizer-skill",
+  "version": "1.0.0",
+  "description": "Normalizes raw autonomous agent shell, editor, and navigation commands into token-efficient Agent-Computer Interface (ACI) execution primitives",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
